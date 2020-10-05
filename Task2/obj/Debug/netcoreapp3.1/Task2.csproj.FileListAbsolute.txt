@@ -1,0 +1,13 @@
+C:\Users\Noo\Desktop\Git\2_147_2020\Task2\bin\Debug\netcoreapp3.1\Task2.exe
+C:\Users\Noo\Desktop\Git\2_147_2020\Task2\bin\Debug\netcoreapp3.1\Task2.deps.json
+C:\Users\Noo\Desktop\Git\2_147_2020\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.json
+C:\Users\Noo\Desktop\Git\2_147_2020\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.dev.json
+C:\Users\Noo\Desktop\Git\2_147_2020\Task2\bin\Debug\netcoreapp3.1\Task2.dll
+C:\Users\Noo\Desktop\Git\2_147_2020\Task2\bin\Debug\netcoreapp3.1\Task2.pdb
+C:\Users\Noo\Desktop\Git\2_147_2020\Task2\obj\Debug\netcoreapp3.1\Task2.csprojAssemblyReference.cache
+C:\Users\Noo\Desktop\Git\2_147_2020\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+C:\Users\Noo\Desktop\Git\2_147_2020\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfo.cs
+C:\Users\Noo\Desktop\Git\2_147_2020\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Noo\Desktop\Git\2_147_2020\Task2\obj\Debug\netcoreapp3.1\Task2.dll
+C:\Users\Noo\Desktop\Git\2_147_2020\Task2\obj\Debug\netcoreapp3.1\Task2.pdb
+C:\Users\Noo\Desktop\Git\2_147_2020\Task2\obj\Debug\netcoreapp3.1\Task2.genruntimeconfig.cache
