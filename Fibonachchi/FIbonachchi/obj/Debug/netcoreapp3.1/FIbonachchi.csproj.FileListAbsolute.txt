@@ -1,0 +1,13 @@
+F:\Проги\FIbonachchi\FIbonachchi\obj\Debug\netcoreapp3.1\FIbonachchi.AssemblyInfoInputs.cache
+F:\Проги\FIbonachchi\FIbonachchi\obj\Debug\netcoreapp3.1\FIbonachchi.AssemblyInfo.cs
+F:\Проги\FIbonachchi\FIbonachchi\obj\Debug\netcoreapp3.1\FIbonachchi.csproj.CoreCompileInputs.cache
+F:\Проги\FIbonachchi\FIbonachchi\bin\Debug\netcoreapp3.1\FIbonachchi.exe
+F:\Проги\FIbonachchi\FIbonachchi\bin\Debug\netcoreapp3.1\FIbonachchi.deps.json
+F:\Проги\FIbonachchi\FIbonachchi\bin\Debug\netcoreapp3.1\FIbonachchi.runtimeconfig.json
+F:\Проги\FIbonachchi\FIbonachchi\bin\Debug\netcoreapp3.1\FIbonachchi.runtimeconfig.dev.json
+F:\Проги\FIbonachchi\FIbonachchi\bin\Debug\netcoreapp3.1\FIbonachchi.dll
+F:\Проги\FIbonachchi\FIbonachchi\bin\Debug\netcoreapp3.1\FIbonachchi.pdb
+F:\Проги\FIbonachchi\FIbonachchi\obj\Debug\netcoreapp3.1\FIbonachchi.dll
+F:\Проги\FIbonachchi\FIbonachchi\obj\Debug\netcoreapp3.1\FIbonachchi.pdb
+F:\Проги\FIbonachchi\FIbonachchi\obj\Debug\netcoreapp3.1\FIbonachchi.genruntimeconfig.cache
+F:\Проги\FIbonachchi\FIbonachchi\obj\Debug\netcoreapp3.1\FIbonachchi.csprojAssemblyReference.cache
