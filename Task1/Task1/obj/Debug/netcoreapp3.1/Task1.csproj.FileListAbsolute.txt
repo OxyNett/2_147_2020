@@ -1,0 +1,13 @@
+C:\Users\D\Tprogramming_147_2020\Task1\Task1\bin\Debug\netcoreapp3.1\Task1.exe
+C:\Users\D\Tprogramming_147_2020\Task1\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+C:\Users\D\Tprogramming_147_2020\Task1\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.json
+C:\Users\D\Tprogramming_147_2020\Task1\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.dev.json
+C:\Users\D\Tprogramming_147_2020\Task1\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+C:\Users\D\Tprogramming_147_2020\Task1\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+C:\Users\D\Tprogramming_147_2020\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.csprojAssemblyReference.cache
+C:\Users\D\Tprogramming_147_2020\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+C:\Users\D\Tprogramming_147_2020\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+C:\Users\D\Tprogramming_147_2020\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
+C:\Users\D\Tprogramming_147_2020\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+C:\Users\D\Tprogramming_147_2020\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.pdb
+C:\Users\D\Tprogramming_147_2020\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.genruntimeconfig.cache
