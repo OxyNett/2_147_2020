@@ -1,0 +1,7 @@
+C:\Users\Рабочий\source\repos\ClassLineEq\ClassLineEq\obj\Debug\ClassLineEq.csprojAssemblyReference.cache
+C:\Users\Рабочий\source\repos\ClassLineEq\ClassLineEq\obj\Debug\ClassLineEq.csproj.CoreCompileInputs.cache
+C:\Users\Рабочий\source\repos\ClassLineEq\ClassLineEq\bin\Debug\ClassLineEq.exe.config
+C:\Users\Рабочий\source\repos\ClassLineEq\ClassLineEq\bin\Debug\ClassLineEq.exe
+C:\Users\Рабочий\source\repos\ClassLineEq\ClassLineEq\bin\Debug\ClassLineEq.pdb
+C:\Users\Рабочий\source\repos\ClassLineEq\ClassLineEq\obj\Debug\ClassLineEq.exe
+C:\Users\Рабочий\source\repos\ClassLineEq\ClassLineEq\obj\Debug\ClassLineEq.pdb

@@ -1,0 +1,7 @@
+C:\Users\Рабочий\source\repos\Fibonachi\Fibonachi\obj\Debug\Fibonachi.csprojAssemblyReference.cache
+C:\Users\Рабочий\source\repos\Fibonachi\Fibonachi\obj\Debug\Fibonachi.csproj.CoreCompileInputs.cache
+C:\Users\Рабочий\source\repos\Fibonachi\Fibonachi\bin\Debug\Fibonachi.exe.config
+C:\Users\Рабочий\source\repos\Fibonachi\Fibonachi\bin\Debug\Fibonachi.exe
+C:\Users\Рабочий\source\repos\Fibonachi\Fibonachi\bin\Debug\Fibonachi.pdb
+C:\Users\Рабочий\source\repos\Fibonachi\Fibonachi\obj\Debug\Fibonachi.exe
+C:\Users\Рабочий\source\repos\Fibonachi\Fibonachi\obj\Debug\Fibonachi.pdb
