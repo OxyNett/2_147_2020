@@ -1,2 +1,1 @@
-# 2_147_2020
-This is educational repo
+# Tprogramming_147_2020
