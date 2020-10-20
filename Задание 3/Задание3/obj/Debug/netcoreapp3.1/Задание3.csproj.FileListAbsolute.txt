@@ -1,0 +1,13 @@
+C:\Users\---\source\repos\Задание3\Задание3\bin\Debug\netcoreapp3.1\Задание3.exe
+C:\Users\---\source\repos\Задание3\Задание3\bin\Debug\netcoreapp3.1\Задание3.deps.json
+C:\Users\---\source\repos\Задание3\Задание3\bin\Debug\netcoreapp3.1\Задание3.runtimeconfig.json
+C:\Users\---\source\repos\Задание3\Задание3\bin\Debug\netcoreapp3.1\Задание3.runtimeconfig.dev.json
+C:\Users\---\source\repos\Задание3\Задание3\bin\Debug\netcoreapp3.1\Задание3.dll
+C:\Users\---\source\repos\Задание3\Задание3\bin\Debug\netcoreapp3.1\Задание3.pdb
+C:\Users\---\source\repos\Задание3\Задание3\obj\Debug\netcoreapp3.1\Задание3.csprojAssemblyReference.cache
+C:\Users\---\source\repos\Задание3\Задание3\obj\Debug\netcoreapp3.1\Задание3.AssemblyInfoInputs.cache
+C:\Users\---\source\repos\Задание3\Задание3\obj\Debug\netcoreapp3.1\Задание3.AssemblyInfo.cs
+C:\Users\---\source\repos\Задание3\Задание3\obj\Debug\netcoreapp3.1\Задание3.csproj.CoreCompileInputs.cache
+C:\Users\---\source\repos\Задание3\Задание3\obj\Debug\netcoreapp3.1\Задание3.dll
+C:\Users\---\source\repos\Задание3\Задание3\obj\Debug\netcoreapp3.1\Задание3.pdb
+C:\Users\---\source\repos\Задание3\Задание3\obj\Debug\netcoreapp3.1\Задание3.genruntimeconfig.cache
