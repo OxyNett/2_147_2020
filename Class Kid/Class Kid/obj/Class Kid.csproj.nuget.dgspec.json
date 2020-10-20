@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\HW\\Class Uravnenie\\Class Uravnenie\\Class Uravnenie.csproj": {}
+    "C:\\Users\\admin\\Desktop\\HW\\Class Kid\\Class Kid\\Class Kid.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\HW\\Class Uravnenie\\Class Uravnenie\\Class Uravnenie.csproj": {
+    "C:\\Users\\admin\\Desktop\\HW\\Class Kid\\Class Kid\\Class Kid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\HW\\Class Uravnenie\\Class Uravnenie\\Class Uravnenie.csproj",
-        "projectName": "Class Uravnenie",
-        "projectPath": "C:\\Users\\admin\\Desktop\\HW\\Class Uravnenie\\Class Uravnenie\\Class Uravnenie.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\HW\\Class Kid\\Class Kid\\Class Kid.csproj",
+        "projectName": "Class Kid",
+        "projectPath": "C:\\Users\\admin\\Desktop\\HW\\Class Kid\\Class Kid\\Class Kid.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\HW\\Class Uravnenie\\Class Uravnenie\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\HW\\Class Kid\\Class Kid\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
