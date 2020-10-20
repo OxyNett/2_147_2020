@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+            "name": "Configs (Root)",
+            "path": "."
+        },
+		{
+			"path": "CourseApp"
+		},
+		{
+			"path": "CourseApp.Tests"
+		},
+	],
+	"settings": {}
+}
