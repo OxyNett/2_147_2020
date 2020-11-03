@@ -1,6 +1,7 @@
 ﻿using System;
+using System.Runtime.InteropServices.WindowsRuntime;
 
-namespace Denrojdeniya
+namespace BirthDay
 {
     class Program
     {
@@ -10,35 +11,31 @@ namespace Denrojdeniya
             Console.WriteLine("Введите дату в формате xx.xx.xxxx");
             string birthDate = Console.ReadLine();
             DateTime BirthDate = DateTime.Parse(birthDate);
-            int age = DateTime.Now.Year - BirthDate.Year;
-            if (age >= 0)
+            int year = DateTime.Now.Year - BirthDate.Year;
+            int month = DateTime.Now.Month - BirthDate.Month;
+            int day = Math.Abs(DateTime.Now.Day - BirthDate.Day);
+            if (DateTime.Now.Year == BirthDate.Year && DateTime.Now.Month == BirthDate.Month && DateTime.Now.Day == BirthDate.Day)
             {
-                if (DateTime.Now.Month < BirthDate.Month)
-                {
-                    age--;
-                    if (age >= 0)
-                    {
-                        Console.WriteLine(age);
-                    }
-                    else { Console.WriteLine("Эта дата еще не наступила."); }
-                }
-                else if (DateTime.Now.Month == BirthDate.Month && DateTime.Now.Day < BirthDate.Day)
-                {
-                    if (age >= 0)
-                    {
-                        Console.WriteLine(age);
-                    }
-                    else { Console.WriteLine("Эта дата еще не наступила."); }
-                }
-                else if (DateTime.Now.Year == BirthDate.Year && DateTime.Now.Month == BirthDate.Month && DateTime.Now.Day == BirthDate.Day)
-                {
-                    Console.WriteLine("eto je segodnya");
-                }
-
+                Console.WriteLine("eto segodnya");
+            }
+            if (DateTime.Now.Month < BirthDate.Month)
+                year--;
+            else if (DateTime.Now.Month == BirthDate.Month && DateTime.Now.Day < BirthDate.Day)
+                year--;
+            if (DateTime.Now.Day < BirthDate.Day)
+                month--;
+            if (DateTime.Now.Day >= BirthDate.Day)
+                day = 30 - day;
+            if (DateTime.Now.Year < BirthDate.Year || DateTime.Now.Year == BirthDate.Year && DateTime.Now.Month < BirthDate.Month || DateTime.Now.Year == BirthDate.Year && DateTime.Now.Month == BirthDate.Month && DateTime.Now.Day < BirthDate.Day)
+            {
+                Console.WriteLine("Эта дата еще не наступила.");
             }
             else
             {
-                Console.WriteLine("Эта дата еще не наступила.");
+                Console.WriteLine("Полный возраст: ");
+                Console.WriteLine(year);
+                Console.WriteLine(month);
+                Console.WriteLine(30 - day);
             }
         }
     }
