@@ -8,26 +8,32 @@ namespace Class_Kid
 {
     class Kid
     {
-        public int hungry;
-        public int want_play;
-        public int want_sleep;
-        public string Feed ()
+        private bool hungry = false;
+        private bool want_play = false;
+        private bool want_sleep = false;
+        public Kid (bool hungry, bool want_play, bool want_sleep)
         {
-            if (hungry == 1) { return  "Попроси кого-нибудь тебя накормить"; }
-            if (hungry == 0) { return  "Не хочешь, как хочешь"; }
-            return "Cледующий вопрос";
+            this.hungry = hungry;
+            this.want_play = want_play;
+            this.want_sleep = want_sleep;
         }
-        public string Playing()
+        public void Feed ()
         {
-            if (want_play == 1) { return  "Попроси кого-нибудь с тобой поиграть"; }
-            if (want_play == 0) { return  "Нет, так нет"; }           
-            return "Следующий вопрос";
+            if (!hungry) { Console.WriteLine("Ребенок хочет есть, нужно покормить его"); }
+            else { Console.WriteLine("Вы накормили ребенка!"); }
+            hungry = true;
         }
-        public string Sleeping()
+        public void Playing()
         {
-            if (want_sleep == 1) { return  "Попроси кого-нибудь тебя уложить спатеньки"; }
-            if (want_sleep == 0) {  }
-            return "Допрос окончен, можете покинуть помещение";
+            if (!want_play) { Console.WriteLine("Ребенок хочет играть, нужно поиграть с ним"); }
+            else { Console.WriteLine("Вы поиграли с ребенком!"); }
+            want_play = true;
+        }
+        public void Sleeping()
+        {
+            if (!want_sleep) { Console.WriteLine("Ребенок хочет спать, нужно уложить его спать"); }
+            else { Console.WriteLine("Вы уложили ребенка спать!"); }
+            want_sleep = true;
         }
     }
 
@@ -35,51 +41,32 @@ namespace Class_Kid
     {
         static void Main(string[] args)
         {
-            Kid mKid = new Kid();
-            Console.WriteLine("Ребенок, ты хочешь кушать? (Yes/No)");
-            string ans1 = Console.ReadLine();
-            if (ans1 == "Yes"){ mKid.hungry = 1; }
-            if (mKid.hungry == 1) 
+            Kid mKid = new Kid(true, false, false);
+            Console.WriteLine("Чтобы покормить ребенка, нажми F");
+            Console.WriteLine("Чтобы поиграть с ребенком, нажми P");
+            Console.WriteLine("Чтобы уложить ребенка спать, нажми S");
+            Console.WriteLine("Чтобы закончить , нажми E");
+
+            string reshenie = Console.ReadLine();
+            while (reshenie != "E")
             {
-                Thread.Sleep(500); 
-                Console.WriteLine(mKid.Feed()); 
+                if (reshenie == "F")
+                {
+                    mKid.Feed();
+                }
+
+                else if (reshenie == "P")
+                {
+                    mKid.Playing();
+                }
+
+                else if (reshenie == "S")
+                {
+                    mKid.Sleeping();
+                }
+                reshenie = Console.ReadLine();
             }
-            if (ans1 == "No") { mKid.hungry = 0; }
-            if (mKid.hungry == 0) 
-            {
-                Thread.Sleep(500);
-                Console.WriteLine(mKid.Feed());
-            }
-            Thread.Sleep(500);
-            Console.WriteLine("Ребенок, ты хочешь играть? (Yes/No)");
-            string ans2 = Console.ReadLine();
-            if (ans2 == "Yes") { mKid.want_play = 1; }
-            if (mKid.want_play == 1) 
-            {
-                Thread.Sleep(500); 
-                Console.WriteLine(mKid.Playing());
-            }
-            if (ans2 == "No") { mKid.want_play = 0; }
-            if (mKid.want_play == 0) 
-            {
-                Thread.Sleep(500); 
-                Console.WriteLine(mKid.Playing());
-            }
-            Thread.Sleep(500);
-            Console.WriteLine("Ребенок, ты хочешь спать? (Yes/No)");
-            string ans3 = Console.ReadLine();
-            if (ans3 == "Yes") { mKid.want_sleep = 1; }
-            if (mKid.want_sleep == 1) 
-            {
-                Thread.Sleep(500); 
-                Console.WriteLine(mKid.Sleeping());
-            }
-            if (ans3 == "No") { mKid.want_sleep = 0; }
-            if (mKid.want_sleep == 0)
-            { 
-                Thread.Sleep(500); 
-                Console.WriteLine(mKid.Sleeping());
-            }
+            Console.ReadKey();
         }
     }
 }
