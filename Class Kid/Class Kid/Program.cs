@@ -19,21 +19,21 @@ namespace Class_Kid
         }
         public void Feed ()
         {
-            if (!hungry) { Console.WriteLine("Ребенок хочет есть, нужно покормить его"); }
+            if (!hungry) { Console.WriteLine("Ребенок не хочет есть"); }
             else { Console.WriteLine("Вы накормили ребенка!"); }
-            hungry = true;
+            hungry = false;
         }
         public void Playing()
         {
-            if (!want_play) { Console.WriteLine("Ребенок хочет играть, нужно поиграть с ним"); }
+            if (!want_play) { Console.WriteLine("Ребенок не хочет играть"); }
             else { Console.WriteLine("Вы поиграли с ребенком!"); }
-            want_play = true;
+            want_play = false;
         }
         public void Sleeping()
         {
-            if (!want_sleep) { Console.WriteLine("Ребенок хочет спать, нужно уложить его спать"); }
+            if (!want_sleep) { Console.WriteLine("Ребенок не хочет спать"); }
             else { Console.WriteLine("Вы уложили ребенка спать!"); }
-            want_sleep = true;
+            want_sleep = false;
         }
     }
 
@@ -42,6 +42,7 @@ namespace Class_Kid
         static void Main(string[] args)
         {
             Kid mKid = new Kid(true, false, false);
+
             Console.WriteLine("Чтобы покормить ребенка, нажми F");
             Console.WriteLine("Чтобы поиграть с ребенком, нажми P");
             Console.WriteLine("Чтобы уложить ребенка спать, нажми S");
