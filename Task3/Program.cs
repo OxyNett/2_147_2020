@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Task3
+namespace CourseApp
 {
     class Program
     {

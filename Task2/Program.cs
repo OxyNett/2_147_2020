@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Task2
+namespace CourseApp
 {
-    class Program
+    class Task2
     {
         static int Fibo(int n)
         {
