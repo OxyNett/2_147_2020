@@ -21,11 +21,20 @@ namespace BirthDay
             if (DateTime.Now.Month < BirthDate.Month)
                 year--;
             else if (DateTime.Now.Month == BirthDate.Month && DateTime.Now.Day < BirthDate.Day)
+            {
                 year--;
-            if (DateTime.Now.Day < BirthDate.Day)
+                month = 11;
+            }
+            if (BirthDate.Month>DateTime.Now.Month)
+            {
+                month = 12-Math.Abs(DateTime.Now.Month - BirthDate.Month);
+                if (DateTime.Now.Day < BirthDate.Day)
+                    month--;
+            }
+            if (BirthDate.Month < DateTime.Now.Month && DateTime.Now.Day < BirthDate.Day)
                 month--;
             if (DateTime.Now.Day >= BirthDate.Day)
-                day = 30 - day;
+            day = 30 - day;
             if (DateTime.Now.Year < BirthDate.Year || DateTime.Now.Year == BirthDate.Year && DateTime.Now.Month < BirthDate.Month || DateTime.Now.Year == BirthDate.Year && DateTime.Now.Month == BirthDate.Month && DateTime.Now.Day < BirthDate.Day)
             {
                 Console.WriteLine("Эта дата еще не наступила.");
