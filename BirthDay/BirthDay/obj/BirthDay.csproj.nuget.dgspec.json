@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\HW\\Fibonachchi\\FIbonachchi\\FIbonachchi.csproj": {}
+    "C:\\Users\\admin\\Desktop\\HW\\BirthDay\\BirthDay\\BirthDay.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\HW\\Fibonachchi\\FIbonachchi\\FIbonachchi.csproj": {
+    "C:\\Users\\admin\\Desktop\\HW\\BirthDay\\BirthDay\\BirthDay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\HW\\Fibonachchi\\FIbonachchi\\FIbonachchi.csproj",
-        "projectName": "FIbonachchi",
-        "projectPath": "C:\\Users\\admin\\Desktop\\HW\\Fibonachchi\\FIbonachchi\\FIbonachchi.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\HW\\BirthDay\\BirthDay\\BirthDay.csproj",
+        "projectName": "BirthDay",
+        "projectPath": "C:\\Users\\admin\\Desktop\\HW\\BirthDay\\BirthDay\\BirthDay.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\HW\\Fibonachchi\\FIbonachchi\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\HW\\BirthDay\\BirthDay\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

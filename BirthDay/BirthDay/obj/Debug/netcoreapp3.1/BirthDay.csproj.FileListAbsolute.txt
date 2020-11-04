@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\HW\BirthDay\BirthDay\bin\Debug\netcoreapp3.1\BirthDay.exe
+C:\Users\admin\Desktop\HW\BirthDay\BirthDay\bin\Debug\netcoreapp3.1\BirthDay.deps.json
+C:\Users\admin\Desktop\HW\BirthDay\BirthDay\bin\Debug\netcoreapp3.1\BirthDay.runtimeconfig.json
+C:\Users\admin\Desktop\HW\BirthDay\BirthDay\bin\Debug\netcoreapp3.1\BirthDay.runtimeconfig.dev.json
+C:\Users\admin\Desktop\HW\BirthDay\BirthDay\bin\Debug\netcoreapp3.1\BirthDay.dll
+C:\Users\admin\Desktop\HW\BirthDay\BirthDay\bin\Debug\netcoreapp3.1\BirthDay.pdb
+C:\Users\admin\Desktop\HW\BirthDay\BirthDay\obj\Debug\netcoreapp3.1\BirthDay.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\HW\BirthDay\BirthDay\obj\Debug\netcoreapp3.1\BirthDay.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\HW\BirthDay\BirthDay\obj\Debug\netcoreapp3.1\BirthDay.AssemblyInfo.cs
+C:\Users\admin\Desktop\HW\BirthDay\BirthDay\obj\Debug\netcoreapp3.1\BirthDay.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\HW\BirthDay\BirthDay\obj\Debug\netcoreapp3.1\BirthDay.dll
+C:\Users\admin\Desktop\HW\BirthDay\BirthDay\obj\Debug\netcoreapp3.1\BirthDay.pdb
+C:\Users\admin\Desktop\HW\BirthDay\BirthDay\obj\Debug\netcoreapp3.1\BirthDay.genruntimeconfig.cache
