@@ -4,47 +4,40 @@ namespace Birthday_task
 {
     class Program
     {
-
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите дату в формате день.месяц.год в числах");
-            string birthdaydate = Console.ReadLine();
-            DateTime BirthdayDate = DateTime.Parse(birthdaydate);
-            int age = DateTime.Now.Year - BirthdayDate.Year;
-            if (age >= 0)
+            Console.WriteLine("Введите дату в формате XX.XX.XXXX");
+            string birthdate = Console.ReadLine();
+            DateTime BirthDate = DateTime.Parse(birthdate);
+            int year = DateTime.Now.Year - BirthDate.Year;
+            int month = 12 - BirthDate.Month + DateTime.Now.Month;
+            int day = DateTime.DaysInMonth(DateTime.Now.Year, DateTime.Now.Month) - Math.Abs(BirthDate.Day-DateTime.Now.Day);
+            if (year >= 0)
             {
-                if (DateTime.Now.Month < BirthdayDate.Month)
+                if (DateTime.Now.Month < BirthDate.Month)
                 {
-                    age--;
-                    if (age >= 0)
-                    {
-                        Console.WriteLine(age);
-                    }
-                    else
-                    {
-                        Console.WriteLine("Этот день ещё не наступил.");
-                    }
+                    year--;
                 }
-                else if (DateTime.Now.Month == BirthdayDate.Month && DateTime.Now.Day < BirthdayDate.Day)
+                else if ((DateTime.Now.Month == BirthDate.Month) && (DateTime.Now.Day < BirthDate.Day))
                 {
-                    if (age >= 0)
-                    {
-                        Console.WriteLine(age);
-                    }
-                    else
-                    {
-                        Console.WriteLine("Этот день ещё не наступил.");
-                    }
+                    year--;
                 }
-                else if (DateTime.Now.Year == BirthdayDate.Year && DateTime.Now.Month == BirthdayDate.Month && DateTime.Now.Day == BirthdayDate.Day)
-                {
-                    Console.WriteLine("Этот день сегодня.");
-                }
-
             }
-            else
+            if (month >= 0)
             {
-                Console.WriteLine("Этот день ещё не наступил.");
+                if (DateTime.Now.Day < BirthDate.Day)
+                {
+                    month--;
+                }
+            }
+            if ((year < 0) || (month < 0))
+            {
+                Console.WriteLine("Эта дата еще не наступила.");
+            }
+            if (day >= 0)
+            {
+                Console.WriteLine("Возраст: {0}", year);
+                Console.WriteLine("Лет: {0}  Месяцев: {1}  Дней: {2}", year, Math.Abs(12-month), day);
             }
         }
     }
