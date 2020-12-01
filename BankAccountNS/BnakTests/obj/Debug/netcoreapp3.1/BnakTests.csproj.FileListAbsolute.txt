@@ -1,0 +1,13 @@
+D:\Desktop\д.з\Тех.Прог\BankAccountNS\BnakTests\bin\Debug\netcoreapp3.1\BnakTests.exe
+D:\Desktop\д.з\Тех.Прог\BankAccountNS\BnakTests\bin\Debug\netcoreapp3.1\BnakTests.deps.json
+D:\Desktop\д.з\Тех.Прог\BankAccountNS\BnakTests\bin\Debug\netcoreapp3.1\BnakTests.runtimeconfig.json
+D:\Desktop\д.з\Тех.Прог\BankAccountNS\BnakTests\bin\Debug\netcoreapp3.1\BnakTests.runtimeconfig.dev.json
+D:\Desktop\д.з\Тех.Прог\BankAccountNS\BnakTests\bin\Debug\netcoreapp3.1\BnakTests.dll
+D:\Desktop\д.з\Тех.Прог\BankAccountNS\BnakTests\bin\Debug\netcoreapp3.1\BnakTests.pdb
+D:\Desktop\д.з\Тех.Прог\BankAccountNS\BnakTests\obj\Debug\netcoreapp3.1\BnakTests.csprojAssemblyReference.cache
+D:\Desktop\д.з\Тех.Прог\BankAccountNS\BnakTests\obj\Debug\netcoreapp3.1\BnakTests.AssemblyInfoInputs.cache
+D:\Desktop\д.з\Тех.Прог\BankAccountNS\BnakTests\obj\Debug\netcoreapp3.1\BnakTests.AssemblyInfo.cs
+D:\Desktop\д.з\Тех.Прог\BankAccountNS\BnakTests\obj\Debug\netcoreapp3.1\BnakTests.csproj.CoreCompileInputs.cache
+D:\Desktop\д.з\Тех.Прог\BankAccountNS\BnakTests\obj\Debug\netcoreapp3.1\BnakTests.dll
+D:\Desktop\д.з\Тех.Прог\BankAccountNS\BnakTests\obj\Debug\netcoreapp3.1\BnakTests.pdb
+D:\Desktop\д.з\Тех.Прог\BankAccountNS\BnakTests\obj\Debug\netcoreapp3.1\BnakTests.genruntimeconfig.cache
