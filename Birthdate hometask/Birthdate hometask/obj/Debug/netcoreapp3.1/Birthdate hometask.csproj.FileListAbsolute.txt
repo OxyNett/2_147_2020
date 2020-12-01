@@ -1,0 +1,13 @@
+D:\Desktop\д.з\Тех.Прог\C# задания\Birthdate hometask\Birthdate hometask\bin\Debug\netcoreapp3.1\Birthdate hometask.exe
+D:\Desktop\д.з\Тех.Прог\C# задания\Birthdate hometask\Birthdate hometask\bin\Debug\netcoreapp3.1\Birthdate hometask.deps.json
+D:\Desktop\д.з\Тех.Прог\C# задания\Birthdate hometask\Birthdate hometask\bin\Debug\netcoreapp3.1\Birthdate hometask.runtimeconfig.json
+D:\Desktop\д.з\Тех.Прог\C# задания\Birthdate hometask\Birthdate hometask\bin\Debug\netcoreapp3.1\Birthdate hometask.runtimeconfig.dev.json
+D:\Desktop\д.з\Тех.Прог\C# задания\Birthdate hometask\Birthdate hometask\bin\Debug\netcoreapp3.1\Birthdate hometask.dll
+D:\Desktop\д.з\Тех.Прог\C# задания\Birthdate hometask\Birthdate hometask\bin\Debug\netcoreapp3.1\Birthdate hometask.pdb
+D:\Desktop\д.з\Тех.Прог\C# задания\Birthdate hometask\Birthdate hometask\obj\Debug\netcoreapp3.1\Birthdate hometask.csprojAssemblyReference.cache
+D:\Desktop\д.з\Тех.Прог\C# задания\Birthdate hometask\Birthdate hometask\obj\Debug\netcoreapp3.1\Birthdate hometask.AssemblyInfoInputs.cache
+D:\Desktop\д.з\Тех.Прог\C# задания\Birthdate hometask\Birthdate hometask\obj\Debug\netcoreapp3.1\Birthdate hometask.AssemblyInfo.cs
+D:\Desktop\д.з\Тех.Прог\C# задания\Birthdate hometask\Birthdate hometask\obj\Debug\netcoreapp3.1\Birthdate hometask.csproj.CoreCompileInputs.cache
+D:\Desktop\д.з\Тех.Прог\C# задания\Birthdate hometask\Birthdate hometask\obj\Debug\netcoreapp3.1\Birthdate hometask.dll
+D:\Desktop\д.з\Тех.Прог\C# задания\Birthdate hometask\Birthdate hometask\obj\Debug\netcoreapp3.1\Birthdate hometask.pdb
+D:\Desktop\д.з\Тех.Прог\C# задания\Birthdate hometask\Birthdate hometask\obj\Debug\netcoreapp3.1\Birthdate hometask.genruntimeconfig.cache

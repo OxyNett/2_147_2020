@@ -1,0 +1,13 @@
+D:\Desktop\д.з\Тех.Прог\C# задания\Задание 3\Задание 3\obj\Debug\netcoreapp3.1\Задание 3.csprojAssemblyReference.cache
+D:\Desktop\д.з\Тех.Прог\C# задания\Задание 3\Задание 3\obj\Debug\netcoreapp3.1\Задание 3.AssemblyInfoInputs.cache
+D:\Desktop\д.з\Тех.Прог\C# задания\Задание 3\Задание 3\obj\Debug\netcoreapp3.1\Задание 3.AssemblyInfo.cs
+D:\Desktop\д.з\Тех.Прог\C# задания\Задание 3\Задание 3\obj\Debug\netcoreapp3.1\Задание 3.csproj.CoreCompileInputs.cache
+D:\Desktop\д.з\Тех.Прог\C# задания\Задание 3\Задание 3\bin\Debug\netcoreapp3.1\Задание 3.exe
+D:\Desktop\д.з\Тех.Прог\C# задания\Задание 3\Задание 3\bin\Debug\netcoreapp3.1\Задание 3.deps.json
+D:\Desktop\д.з\Тех.Прог\C# задания\Задание 3\Задание 3\bin\Debug\netcoreapp3.1\Задание 3.runtimeconfig.json
+D:\Desktop\д.з\Тех.Прог\C# задания\Задание 3\Задание 3\bin\Debug\netcoreapp3.1\Задание 3.runtimeconfig.dev.json
+D:\Desktop\д.з\Тех.Прог\C# задания\Задание 3\Задание 3\bin\Debug\netcoreapp3.1\Задание 3.dll
+D:\Desktop\д.з\Тех.Прог\C# задания\Задание 3\Задание 3\bin\Debug\netcoreapp3.1\Задание 3.pdb
+D:\Desktop\д.з\Тех.Прог\C# задания\Задание 3\Задание 3\obj\Debug\netcoreapp3.1\Задание 3.dll
+D:\Desktop\д.з\Тех.Прог\C# задания\Задание 3\Задание 3\obj\Debug\netcoreapp3.1\Задание 3.pdb
+D:\Desktop\д.з\Тех.Прог\C# задания\Задание 3\Задание 3\obj\Debug\netcoreapp3.1\Задание 3.genruntimeconfig.cache
