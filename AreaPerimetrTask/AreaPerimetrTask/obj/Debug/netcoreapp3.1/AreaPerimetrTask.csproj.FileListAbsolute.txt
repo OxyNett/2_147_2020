@@ -1,0 +1,13 @@
+D:\Desktop\д.з\Тех.Прог\AreaPerimetrTask\AreaPerimetrTask\bin\Debug\netcoreapp3.1\AreaPerimetrTask.exe
+D:\Desktop\д.з\Тех.Прог\AreaPerimetrTask\AreaPerimetrTask\bin\Debug\netcoreapp3.1\AreaPerimetrTask.deps.json
+D:\Desktop\д.з\Тех.Прог\AreaPerimetrTask\AreaPerimetrTask\bin\Debug\netcoreapp3.1\AreaPerimetrTask.runtimeconfig.json
+D:\Desktop\д.з\Тех.Прог\AreaPerimetrTask\AreaPerimetrTask\bin\Debug\netcoreapp3.1\AreaPerimetrTask.runtimeconfig.dev.json
+D:\Desktop\д.з\Тех.Прог\AreaPerimetrTask\AreaPerimetrTask\bin\Debug\netcoreapp3.1\AreaPerimetrTask.dll
+D:\Desktop\д.з\Тех.Прог\AreaPerimetrTask\AreaPerimetrTask\bin\Debug\netcoreapp3.1\AreaPerimetrTask.pdb
+D:\Desktop\д.з\Тех.Прог\AreaPerimetrTask\AreaPerimetrTask\obj\Debug\netcoreapp3.1\AreaPerimetrTask.csprojAssemblyReference.cache
+D:\Desktop\д.з\Тех.Прог\AreaPerimetrTask\AreaPerimetrTask\obj\Debug\netcoreapp3.1\AreaPerimetrTask.AssemblyInfoInputs.cache
+D:\Desktop\д.з\Тех.Прог\AreaPerimetrTask\AreaPerimetrTask\obj\Debug\netcoreapp3.1\AreaPerimetrTask.AssemblyInfo.cs
+D:\Desktop\д.з\Тех.Прог\AreaPerimetrTask\AreaPerimetrTask\obj\Debug\netcoreapp3.1\AreaPerimetrTask.csproj.CoreCompileInputs.cache
+D:\Desktop\д.з\Тех.Прог\AreaPerimetrTask\AreaPerimetrTask\obj\Debug\netcoreapp3.1\AreaPerimetrTask.dll
+D:\Desktop\д.з\Тех.Прог\AreaPerimetrTask\AreaPerimetrTask\obj\Debug\netcoreapp3.1\AreaPerimetrTask.pdb
+D:\Desktop\д.з\Тех.Прог\AreaPerimetrTask\AreaPerimetrTask\obj\Debug\netcoreapp3.1\AreaPerimetrTask.genruntimeconfig.cache
